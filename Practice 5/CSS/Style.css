@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color:#eee;
+}
+
+#contenedor{
+    margin-top: auto;
+    width: 100%;
+}
+
+.img{
+    text-align: center;
+}
+
+#menu{
+    background-color: rgb(221, 187, 118);
+    float: left;
+    height: 600px;
+    padding: 20px;
+    width: 150;
+}
+
+#contenido{
+    background-color: rgb(207, 189, 189);
+    float: left;
+    height:620px;
+    padding: 10px;
+    width: 1030px;
+}
+
+.t2{
+    text-align: center;
+}
+
+.title{
+    text-align: center;
+}
